@@ -13,7 +13,7 @@ Instead of **manually needing to generate all these images**, we can use an imag
 Run the following command to install the package:
 
 ```bash
-composer require ralphjsmit/laravel-glide
+composer require unclecatvn/laravel-glide
 ```
 
 You do not need to publish a config file or anything else.
