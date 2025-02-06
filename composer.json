@@ -1,17 +1,17 @@
 {
-    "name": "ralphjsmit/laravel-glide",
+    "name": "unclecatvn/laravel-glide",
     "description": "Auto-magically generate responsive images from static image files.",
     "keywords": [
-        "ralphjsmit",
+        "unclecatvn",
         "laravel",
         "laravel-glide"
     ],
-    "homepage": "https://github.com/ralphjsmit/laravel-glide",
+    "homepage": "https://github.com/unclecatvn/laravel-glide",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ralph J. Smit",
-            "email": "rjs@ralphjsmit.com",
+            "name": "Hoai Nam",
+            "email": "nguyenhoain123@gmail.com",
             "role": "Developer"
         }
     ],
@@ -34,7 +34,7 @@
             "src/helpers.php"
         ],
         "psr-4": {
-            "RalphJSmit\\Laravel\\Glide\\": "src/"
+            "Unclecatvn\\Laravel\\Glide\\": "src/"
         }
     },
     "scripts": {
@@ -50,7 +50,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "RalphJSmit\\Laravel\\Glide\\GlideServiceProvider"
+                "Unclecatvn\\Laravel\\Glide\\GlideServiceProvider"
             ]
         }
     },
